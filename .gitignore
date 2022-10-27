@@ -1,6 +1,3 @@
-
+#ignorowanie wszystkich logów oraz pliku tekstowego plik.txt
 *.log
-*.txt
 plik.txt
-
-LICENSE
