@@ -5,12 +5,3 @@ Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do g
 
 Aby odpalić program należy najpierw go stworzyć ;) 
 
-
-~~Najtrudniejszy~~ Najłatwiejszy **PROJEKT** (*o dziwo wspólny*)
-
-***Najważniejsze że działa***
-<sub>przynajmniej w założeniach</sub>
-(co)<sup>2</sup>
-
-
-> Wszystko bedzie jak talala
