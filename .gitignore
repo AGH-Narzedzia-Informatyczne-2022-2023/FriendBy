@@ -1,5 +1,6 @@
-# ignorowaie logów i txt
+
 *.log
 *.txt
-#ignorowanie kopiowania licencji
+plik.txt
+
 LICENSE
