@@ -1,4 +1,5 @@
-# ignorowaie logów
+# ignorowaie logów i txt
 *.log
+*.txt
 #ignorowanie kopiowania licencji
 LICENSE
