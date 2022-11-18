@@ -3,10 +3,10 @@
 
 Funkcje:
 Za pomocą FriendBy będziesz mógł:
--zarezerwować boiska, korty tenisowe czy sale bilardowe, razem ze znajomymi
--znaleźć nowych przyjaciół uprawiając ulubione sporty
--budować swój sportowy profil użytkownika
--zyskasz także dostęp do bazy obiektów sportowych w twojej okolicy!
+  -zarezerwować boiska, korty tenisowe czy sale bilardowe, razem ze znajomymi
+  -znaleźć nowych przyjaciół uprawiając ulubione sporty
+  -budować swój sportowy profil użytkownika
+  -zyskasz także dostęp do bazy obiektów sportowych w twojej okolicy!
 
 KOMPATYBILNE PLATFORMY:
 
