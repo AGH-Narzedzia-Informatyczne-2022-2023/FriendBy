@@ -1,7 +1,6 @@
 # FriendBy
 
 
-Funkcje:  
 Za pomocą FriendBy będziesz mógł:
   - arezerwować boiska, korty tenisowe czy sale bilardowe, razem ze znajomymi
   - znaleźć nowych przyjaciół uprawiając ulubione sporty
