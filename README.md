@@ -13,11 +13,11 @@ Aplikacja FriendBy napisana w języku Python początkowo będzie przeznaczona dl
 O Autorach
 
 W skład zespołu wchodzą:
--Mateusz **Świątek**
--Adam **Stajek**
--Gabreiela **Bułat**
--Sergey **Zeliuk**
--Diana **Misiaczyńska**
+  - Mateusz **Świątek**
+  - Adam **Stajek**
+  - Gabreiela **Bułat**
+  - Sergey **Zeliuk**
+  - Diana **Misiaczyńska**
 
 Jesteśmy studentami I roku Informatyki i Systemów Inteligentych na AGH w Krakowie
 Wszyscy jesteśmy [Kreatywni](https://www.youtube.com/shorts/chqYf4JbaM8) 
