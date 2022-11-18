@@ -1,9 +1,12 @@
 # FriendBy
-Wspólne spędzanie czasu nigdy nie było prostsze! 
-Aplikacja do spotykwania się ze znajomymi, nieznajomymi na różne aktywnośći,
-Kino, piłka nożna, teatry, kina, koncerty, wszystko co tylko Ci przyjdzie do głowy tu będzie ;)
 
-Aby odpalić program należy najpierw go stworzyć ;) 
+
+Funkcje:
+Za pomocą FriendBy będziesz mógł:
+-zarezerwować boiska, korty tenisowe czy sale bilardowe, razem ze znajomymi
+-znaleźć nowych przyjaciół uprawiając ulubione sporty
+-budować swój sportowy profil użytkownika
+-zyskasz także dostęp do bazy obiektów sportowych w twojej okolicy!
 
 KOMPATYBILNE PLATFORMY:
 
