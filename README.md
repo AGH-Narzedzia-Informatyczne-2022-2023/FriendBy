@@ -9,7 +9,7 @@ Za pomocą FriendBy będziesz mógł:
 
 KOMPATYBILNE PLATFORMY:
 
-Aplikacja FriendBy napisana w języku Python początkowo będzie przeznaczona dla PC, jednak przeniesienie jej na Androida nie sprawi większego problemu. W przyszłości możliwe jest także stworzenie wersji da iOs, jednak język programowania musiałby ulec zmianie.
+Aplikacja FriendBy napisana w języku Python początkowo będzie przeznaczona dla PC, jednak przeniesienie jej na Androida nie sprawi większego problemu. W przyszłości możliwe jest także stworzenie wersji da iOS, jednak język programowania musiałby ulec zmianie.
 
 
 O Autorach projektu:
@@ -17,7 +17,7 @@ O Autorach projektu:
 W skład zespołu wchodzą:
   - Mateusz **Świątek**
   - Adam **Stajek**
-  - Gabreiela **Bułat**
+  - Gabriela **Bułat**
   - Sergey **Zeliuk**
   - Diana **Misiaczyńska**
 
