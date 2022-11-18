@@ -2,7 +2,7 @@
 
 WSTĘP
 
-FriendBy to aplikacja do poznawania ludzi, których łączy pasja do sportu. Dzięki FriendBy poznasz ludzi lubiących i mających ochotę dokładnie na to samo co ty. Łączymy ludzi poprzez wspólne zamiłowanie do spędzania czasu aktywnie. Nasza aplikacja to doskonałe rowiązanie dla osób, którzy poszukują kompanów do sportowej przygody.
+FriendBy to aplikacja do poznawania ludzi, których łączy pasja do sportu. Dzięki FriendBy poznasz ludzi lubiących i mających ochotę dokładnie na to samo co ty. Łączymy ich poprzez wspólne zamiłowanie do spędzania czasu aktywnie. Nasza aplikacja to doskonałe rowiązanie dla osób, którzy poszukują kompanów do sportowej przygody.
 
 
 Za pomocą FriendBy będziesz mógł:
