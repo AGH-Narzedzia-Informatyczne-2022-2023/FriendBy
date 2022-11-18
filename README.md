@@ -2,7 +2,7 @@
 
 
 Za pomocą FriendBy będziesz mógł:
-  - arezerwować boiska, korty tenisowe czy sale bilardowe, razem ze znajomymi
+  - zarezerwować boiska, korty tenisowe czy sale bilardowe, razem ze znajomymi
   - znaleźć nowych przyjaciół uprawiając ulubione sporty
   - budować swój sportowy profil użytkownika
   - zyskasz także dostęp do bazy obiektów sportowych w twojej okolicy!
@@ -27,7 +27,7 @@ Wszyscy jesteśmy [Kreatywni](https://www.youtube.com/shorts/chqYf4JbaM8)
 Jesteśmy zgraną społecznością, otwartą na nowe osoby propozycje oraz sugestie.
 Jeśli masz jakieś uwagi możesz je umieścić [TU](https://forms.gle/6TwHpkseHEFVsxe48)
 
-W życiu codziennym pasjoujemy się informatyką, spotem, ekonomią, geopolityką, psychologią społeczną, kulturą.
+W życiu codziennym pasjoujemy się informatyką, sportem, ekonomią, geopolityką, psychologią społeczną, kulturą.
 Projekt FriendBy jest dla nas możliwością rozwijania zainteresowań.
 
 Można nas spotkać w gmachu wydziału EAIiIB AGH 
