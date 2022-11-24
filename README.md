@@ -36,3 +36,4 @@ Projekt FriendBy jest dla nas możliwością rozwijania zainteresowań.
 
 Można nas spotkać w gmachu wydziału EAIiIB AGH 
 
+Umiemy również korzystać już z branch
