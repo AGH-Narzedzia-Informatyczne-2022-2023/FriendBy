@@ -1,0 +1,5 @@
+Branch pozwala nam pracowac nad naszymi wersjami bez zagrożenia uszkodzenia tego co już działa, później się spotykamy i wspólnie dysutujemy nad zmianami
+jesli zmiany sa na plus, wszystko działa poprawnie
+to dołączamy już w pełni działającą wersję do głównego projektu, a brancha możemy sobie wywalić 
+;) 
+Zawsze przed wysłaniem, trzeba popodpisać różne rzeczy
