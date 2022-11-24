@@ -1,0 +1,2 @@
+Dzięki branch możemy pracować nad swoimi zadaniami bez zmian ogólnych na "orginalne"
+po skończeniu możemy się skontaktować, omówić, poprawić zmiany przed końcowym dodaniem ich do głównego projektu
