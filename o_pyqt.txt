@@ -1,0 +1,3 @@
+﻿PyQt
+
+PyQt to nakładka na bibliotekę Qt umożliwiająca tworzenie interfejsu graficznego dla programów komputerowych pisanych w języku Python. Oprócz tworzenia interfejsów graficznych PyQt, tak jak Qt, obsługuje również połączenia z bazami danych, zarządzanie, prostą edycję grafik oraz niektóre operacje systemowe. Będziemy potrzebować tej nakładki, aby zaprojektować design naszej aplikacji - FriendBy. cos tam cos tam
